@@ -1,0 +1,3 @@
+einops
+facenet_pytorch
+face_recognition

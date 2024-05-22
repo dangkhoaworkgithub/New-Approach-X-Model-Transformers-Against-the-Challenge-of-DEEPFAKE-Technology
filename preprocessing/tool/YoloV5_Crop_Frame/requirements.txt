@@ -1,0 +1,7 @@
+os
+opencv-python-headless
+torch
+pathlib
+tqdm
+torchvision
+seaborn
